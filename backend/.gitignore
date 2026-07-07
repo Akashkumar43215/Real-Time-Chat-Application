@@ -1,18 +1,18 @@
-# Dependencies
+# Ignore dependencies
 node_modules/
 **/node_modules/
 
-# Environment
+# Ignore environment files
 .env
 **/.env
 
-# Build
+# Ignore build folders
 dist/
 build/
 
-# Logs
+# Ignore logs
 *.log
 
-# OS files
+# Ignore OS files
 .DS_Store
 Thumbs.db
